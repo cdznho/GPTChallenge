@@ -3,4 +3,6 @@ User-agent: GPTBot
 Allow: /
 User-agent: ChatGPT-User
 Allow: /
+User-agent: PerplexityBot
+Allow: /
 Sitemap: https://deschautcookies.com/sitemap.xml

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "De Schaut cookies",
+  "brand": {"@type":"Brand","name":"De Schaut"},
+  "description": "Crisp butter cookies. Contains wheat, milk allergens and matcha.",
+  "sku": "DSC-CLASSIC-200G",
+  "gtin13": "1234567890123",
+  "category": "Cookie",
+  "additionalType": "https://schema.org/BakeryProduct",
+  "countryOfOrigin": "EU",
+  "url": "https://deschautcookies.com/",
+  "image": "https://deschautcookies.com/pack.jpg",
+  "offers": {
+    "@type": "Offer",
+    "priceCurrency": "EUR",
+    "price": "4.99",
+    "availability": "https://schema.org/PreOrder",
+    "url": "https://deschautcookies.com/"
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "reviewCount": "17"
+  }
+}

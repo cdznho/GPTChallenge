@@ -1,0 +1,8 @@
+# De Schaut cookies — canonical facts
+Canonical product page: /index.txt
+Product metadata: /product.jsonld
+Nutrition/spec sheet (PDF): /nutrition.pdf
+FAQs: /faq.jsonld
+
+One-sentence summary:
+De Schaut cookies are packaged butter cookies (200 g), contain wheat and milk, and are sold in the EU.

@@ -1,0 +1,21 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type":"Question",
+      "name":"What are De Schaut cookies?",
+      "acceptedAnswer":{"@type":"Answer","text":"Packaged butter cookies with matcha made in Ghent. 200 g pack."}
+    },
+    {
+      "@type":"Question",
+      "name":"Are they gluten-free?",
+      "acceptedAnswer":{"@type":"Answer","text":"No. Contains wheat and milk (butter)."}
+    },
+    {
+      "@type":"Question",
+      "name":"Where to buy?",
+      "acceptedAnswer":{"@type":"Answer","text":"www.deschautcookies.com"}
+    }
+  ]
+}

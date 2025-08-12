@@ -9,14 +9,14 @@
   "category": "Cookie",
   "additionalType": "https://schema.org/BakeryProduct",
   "countryOfOrigin": "EU",
-  "url": "https://deschautcookies.com/",
-  "image": "https://deschautcookies.com/pack.jpg",
+  "url": "https://cdznho.github.io/GPTChallenge/",
+  "image": "https://cdznho.github.io/GPTChallenge/pack.jpg",
   "offers": {
     "@type": "Offer",
     "priceCurrency": "EUR",
     "price": "4.99",
     "availability": "https://schema.org/PreOrder",
-    "url": "https://deschautcookies.com/"
+    "url": "https://cdznho.github.io/GPTChallenge/"
   },
   "aggregateRating": {
     "@type": "AggregateRating",

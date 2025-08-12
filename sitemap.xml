@@ -1,8 +1,8 @@
 <!-- sitemap.xml -->
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
- <url><loc>https://deschautcookies.com/index.txt</loc></url>
- <url><loc>https://deschautcookies.com/product.jsonld</loc></url>
- <url><loc>https://deschautcookies.com/faq.jsonld</loc></url>
- <url><loc>https://deschautcookies.com/nutrition.pdf</loc></url>
- <url><loc>https://deschautcookies.com/llms.txt</loc></url>
+ <url><loc>https://cdznho.github.io/GPTChallenge/index.txt</loc></url>
+ <url><loc>https://cdznho.github.io/GPTChallenge/product.jsonld</loc></url>
+ <url><loc>https://cdznho.github.io/GPTChallenge/faq.jsonld</loc></url>
+ <url><loc>https://cdznho.github.io/GPTChallenge/nutrition.pdf</loc></url>
+ <url><loc>https://cdznho.github.io/GPTChallenge/llms.txt</loc></url>
 </urlset>

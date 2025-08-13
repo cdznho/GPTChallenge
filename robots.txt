@@ -5,4 +5,4 @@ User-agent: ChatGPT-User
 Allow: /
 User-agent: PerplexityBot
 Allow: /
-Sitemap: https://cdznho.github.io/GPTChallenge/sitemap.xml
+Sitemap: https://deschautcookies.info/sitemap.xml
